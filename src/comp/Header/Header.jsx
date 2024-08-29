@@ -43,7 +43,7 @@ export default function Header() {
         {description}👄 panty concepts you will need for almost any app you are
         going to build! -{" "}
         <span style={{ color: "yellow" }}>
-          2nd attempt for further learning
+          3RD Try for seprating components
         </span>
       </p>
     </header>
