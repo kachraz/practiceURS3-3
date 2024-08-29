@@ -1,14 +1,8 @@
-import { useState } from "react";
-
-import CoreConcepts from "./comp/CoreConcepts.jsx";
 import Header from "./comp/Header/Header.jsx";
-import Examples from "./comp/Examples.jsx";
+import CoreConcepts from "./comp/CoreConcepts.jsx";
+import Exa from "./comp/Ex.jsx";
 
 // -------------------
-
-// --- Code responsible for the random geenration
-
-// Header Function
 
 function App() {
   return (
@@ -16,7 +10,7 @@ function App() {
       <Header />
       <main>
         <CoreConcepts />
-        <Examples />
+        <Exa />
       </main>
     </>
   );
