@@ -1,6 +1,7 @@
 # URS3Prac
 
-> Redoing - Note this directory has work from [here](https://github.com/kachraz/practiceURS3-1), made a copy to make changes , to remember what you did before
+> Redoing - Note this directory has work from [here](https://github.com/kachraz/practiceURS3-1), made a copy to make changes , to remember what you did before.
+> This is the 3rd copy of above for minir changes
 
 # Notes
 
